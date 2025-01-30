@@ -1,3 +1,4 @@
+This table compares which debrid/downloader services work with which hosters/websites. If you have any suggestions on a debrid service to add, feel free to submit an issue or pull request!
 |                | Debrid-Link | Real-Debrid | Alldebrid | Offcloud | Premiumize | TorBox |
 |----------------|-------------|-------------|-----------|----------|------------|--------|
 | 1Fichier       | Yes         | Yes         | Yes       | Yes      | Yes        | Yes    |
