@@ -57,7 +57,6 @@
 | Doraupload     | No          | No          | No        | Yes      | No         | No     |
 | Douploads      | No          | No          | No        | Yes      | No         | No     |
 | Downloadani    | No          | No          | No        | Yes      | No         | No     |
-|                |             |             |           |          |            |        |
 | Drop.download  | Yes         | Yes         | No        | No       | Yes        | No     |
 | dropapk        | No          | No          | Yes       | Yes      | No         | No     |
 | Dropbox        | Yes         | Yes         | No        | Yes      | No         | No     |
@@ -90,7 +89,6 @@
 | Filemoney      | No          | No          | No        | Yes      | No         | No     |
 | Filenext       | Yes         | Yes         | No        | Yes      | Yes        | No     |
 | Filepup        | No          | No          | No        | Yes      | No         | No     |
-|                |             |             |           |          |            |        |
 | Filer.net      | Yes         | No          | No        | Yes      | Yes        | Yes    |
 | Filerio        | No          | No          | No        | Yes      | No         | No     |
 | Filesabc       | No          | No          | No        | Yes      | No         | No     |
@@ -134,8 +132,6 @@
 | Inclouddrive   | No          | No          | No        | Yes      | No         | No     |
 | Indishare      | No          | No          | No        | Yes      | No         | No     |
 | Interfile      | No          | No          | No        | Yes      | No         | No     |
-|                |             |             |           |          |            |        |
-|                |             |             |           |          |            |        |
 | Isracloud      | Yes         | Yes         | Yes       | No       | Yes        | No     |
 | Jumploads      | Yes         | No          | No        | No       | No         | No     |
 | Katfile        | Yes         | Yes         | Yes       | Yes      | Yes        | No     |
@@ -302,5 +298,5 @@
 | YouJizz        | No          | No          | No        | No       | No         | Yes    |
 | Youporn        | No          | Yes         | No        | No       | No         | Yes    |
 | YouTube        | No          | No          | No        | No       | No         | Yes    |
-| Youwatch       | No          | No          | No        | Yes      | No         | No |
-| Yunfile        | No          | No          | No        | Yes      | No         | No |
+| Youwatch       | No          | No          | No        | Yes      | No         | No     |
+| Yunfile        | No          | No          | No        | Yes      | No         | No     |
